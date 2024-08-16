@@ -1,2 +1,2 @@
 # resume-platform
-一款基于Electron和React的简历平台
+一款基于Electron+React+TypeScript的简历平台
